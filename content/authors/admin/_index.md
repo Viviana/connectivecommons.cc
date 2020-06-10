@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Viviana Wu
 
 # Username (this should match the folder name)
 authors:
@@ -10,24 +10,24 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor of Public Policy
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University Massachusetts – Amherst
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include xxxx.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Nonprofit management
+- Computational Social Science
+- Collective Actions
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
+  - course: PhD in Nonprofit Management
     institution: Stanford University
     year: 2012
   - course: MEng in Artificial Intelligence
