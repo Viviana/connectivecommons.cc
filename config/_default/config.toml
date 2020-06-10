@@ -105,33 +105,7 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
   [[related.indices]]
     name = "authors"
     weight = 20.0
-    
-[params]
-  # AUTHOR SETUP
-
-  # Your details.
-  name = "Viviana Wu"
-  role = "Assistant Professor in Public Policy"
-
-  # Organizations/Affiliations.
-  #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "University of Massachusetts - Amherst", url = "https://umass.edu" } ]
-
-  gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-
-  # Details for the Contact Widget
-  email = "xxx"
-  address = "xxxx"
-  office_hours = """
-  See syllabus <br>
-  <br>
-  Otherwise email to book an appointment
-  """
-  phone = "xxxx"
-  skype = "xxx"
-  telegram = ""
-  keybase = ""  # Your keybase.io username.
+   
 
 
 
