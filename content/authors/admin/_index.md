@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Viviana C.S. Wu
+title: Viviana Wu
 
 # Username (this should match the folder name)
 authors:
@@ -21,10 +21,10 @@ organizations:
 bio: My research interests lie at the intersection of nonprofit management, social policy, and democratic governance.
 
 interests:
-- "Philanthropy & Nonprofit Management"
-- "Inequality & Disadvantaged Communities"
-- "Public Engagement & Social Media"
-- "Computational Methods, Text as Data"
+- "Philanthropy and nonprofit management"
+- "Inequality and community disadvantage"
+- "Connective Action on social media"
+- "Computational methods and Text as Data"
 
 education:
   courses:
