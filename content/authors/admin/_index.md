@@ -14,18 +14,17 @@ role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: University Massachusetts – Amherst
+- name: University Massachusetts Amherst
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests lie at the intersection of nonprofit management, social policy, and democratic governance
 
 interests:
-- "Nonprofit Management"
-- "Place-based Philanthropy"
-- "Inequality and Resource gap"
-- "Community Leadership and Public Engagement"
-- "Computational Methods and Social Media Analysis"
+- "Philanthropy & Nonprofit Management"
+- "Inequality & Vulnerable Communties"
+- "Social Media & Democratic Engagement"
+- "Computational Methods, Text as Data"
 
 education:
   courses:
@@ -74,12 +73,11 @@ user_groups:
 - Visitors
 ---
 
-I am an assistant professor at the University of Massachusetts Amherst, School of Public Policy. My research interests lie at the intersection of nonprofit management, social policy, and democratic governance and can be summed up by 3Cs:"Community", "Commons" and Connective."
+I am an assistant professor at the University of Massachusetts Amherst, School of Public Policy. My research interests lie at the intersection of nonprofit management, social policy, and democratic governance. In summary, my research combines mixed methods and computational approaches to examine the roles and capacities of nonprofit, philanthropic and grassroots organizations to advance public problem solving online and offline. You will see the three core themes of my research program (3Cs):"Community", "Commons" and Connective."
 
 First, my research is Community-oriented. I look at both online and offline communities. I use a place-based perspective in understanding resource inequality across geographical communities and how the nonprofit sector shapes and being shaped by the place itself. I also study online communities on social media and other online platforms where the public, stakeholders and policymakers interact and engage in policy process.
 
 Second, my research is Commons-focused. I study the bottom-up "self-governing" phenomenon in which people come together for common good or to some extent address local and public problems. I look at the roles and the ways in which philanthropy, nonprofits and grassroots groups strategize, mobilize and address or promote inequality given the unequal resources and power in the first place.
 
 Third, my research is Connective-driven. I look at how the nonprofit sector and grassroots groups make meaningful connections through engaging with local communities, leading across sectors, and building networks for connective actions.
-In summary, my research combines mixed methods and computational approaches to examine the roles and capacities of nonprofit, philanthropic and grassroots organizations to lead across sectors, mobilize resources, and engage the public on social media to advance public problem solving.
 
