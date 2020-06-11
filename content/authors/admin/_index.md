@@ -15,7 +15,7 @@ role: Assistant Professor
 # Organizations/Affiliations
 organizations:
 - name: University of Massachusetts Amherst
-  url: "https://www.umass.edu/spp/"
+  url: "www.umass.edu/spp/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests lie at the intersection of nonprofit management, social policy, and democratic governance
@@ -34,7 +34,7 @@ education:
   - course: MS in Nonprofit Leadership
     institution: University of Pennsylvania
 
-  - course: LLB 
+  - course: LLB (Bachelor of Law)
     institution: University of Hong Kong
     
   - course: BSocSc in Government & Laws
@@ -47,7 +47,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "mailto:bijoux.viviana@gmail.com".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/VivianaCSWu
