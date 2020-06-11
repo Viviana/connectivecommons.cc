@@ -22,9 +22,9 @@ bio: My research interests lie at the intersection of nonprofit management, soci
 
 interests:
 - "Philanthropy and nonprofit management"
-- "Inequality and community disadvantage"
-- "Connective Action on social media"
-- "Computational methods and Text as Data"
+- "Inequality and disadvantage"
+- "Connective action on social media"
+- "Computational methods, Text as Data"
 
 education:
   courses:
