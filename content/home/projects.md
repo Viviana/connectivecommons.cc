@@ -1,3 +1,10 @@
+---
+title: "Research"  # Add a page title.
+summary: "Research"  # Add a page description.
+date: "2019-01-01T00:00:00Z"  # Add today's date.
+type: "widget_page"  # Page type is a Widget Page
+---
+
 +++
 # A Projects section created with the Portfolio widget.
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
@@ -75,6 +82,10 @@ subtitle = ""
  css_class = ""
 +++
 
+
+
+
+# Research Projects
 * **Examining the Landscape of Community Foundations in the U.S.**  
 This project gathers an original nation-wide dataset that identifies the service areas of community foundations, addressing a major limitation found in prior studies that primarily measure physical presence. I presented a community assessment model and empirical evidence of what might promote and inhibit the occurrence of community philanthropic efforts. This project results in [this publication](https://link.springer.com/content/pdf/10.1007/s11266-019-00180-x.pdf).
 
