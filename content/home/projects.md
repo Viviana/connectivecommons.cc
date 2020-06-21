@@ -1,9 +1,3 @@
-[[main]]
-  name = "My new page"  # A link title for your page.
-  url = "https://connectivecommons.cc/#project"  # The URL of your page.
-  weight = 50  # The position of your page in the menu
----
-
 +++
 # A Projects section created with the Portfolio widget.
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
@@ -80,9 +74,6 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
-
-
 
 # Research Projects
 * **Examining the Landscape of Community Foundations in the U.S.**  
