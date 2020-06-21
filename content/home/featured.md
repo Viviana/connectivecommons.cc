@@ -67,6 +67,12 @@ subtitle = ""
  css_class = ""
 +++
 
+### The geography and the disparities of community philanthropy: A community assessment model of needs, resources and ecological environment. [**Link**](link.springer.com/content/pdf/10.1007/s11266-019-00180-x.pdf)
+
+### Where do community foundations locate? Examining community needs and resources for redistribution. [**Link**](https://journals.aom.org/doi/abs/10.5465/AMBPP.2018.12266abstract)
+
+### How stakeholder mobilization saved Sweet Briar College. [**Link**](https://www.researchgate.net/profile/Viviana_Chiu_Sik_Wu/publication/333250880_How_Stakeholder_Mobilization_Saved_Sweet_Briar_College/links/5d83bf3ca6fdcc8fd6f7904d/How-Stakeholder-Mobilization-Saved-Sweet-Briar-College.pdf)
+
 
 1.	Wu, V. C. S. (2019). **The geography and the disparities of community philanthropy: A community assessment model of needs, resources and ecological environment.** <i>VOLUNTAS. International Journal of Voluntary and Nonprofit Organizations.</i> [**Link**](link.springer.com/content/pdf/10.1007/s11266-019-00180-x.pdf)
 
