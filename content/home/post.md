@@ -68,8 +68,8 @@ subtitle = ""
 +++
 
 
-# SPP 607 Policy Methods
+**SPP 607 Policy Methods**
 
-# SPP 608 Statistics for Public Policy and Administration
+**SPP 608 Statistics for Public Policy and Administration**
 
-# SPP 297 Leading Successful Public and Nonprofit Organizations
+**SPP 297 Leading Successful Public and Nonprofit Organizations**
