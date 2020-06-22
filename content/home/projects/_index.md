@@ -10,10 +10,10 @@ My research combines mixed methods and computational approaches to examine the r
 
 # Research Projects
 
-* **The Effect of Place-based Inequality on Philanthropic Capacity**
+* **The Effect of Place-based Inequality on Philanthropic Capacity** 
 Drawing on Pierre Bourdieu's perspective, this project explores the extent to which place-based inequality explain the differing philanthropic capacity of community foundations. Based on data from 2,177 serving counties of 943 community foundations across the U.S., we found that community foundations experience a place dilemma: How much they can fundraise are bounded by the amount of local resources, and concurrently, by the degree of local inequality within the communities. 
 
-* **Conceptualizing "Community Leadership"**
+* **Conceptualizing "Community Leadership"** 
 Community philanthropic organizations are increasingly looked to as community leaders that coalesce money, people, knowledge, and networks for addressing public problems at the local level. However, the field remains difficult to grasp—what it is and how it is realized in practice. This project aims to formulate a multi-dimensional conceptual framework to construe community leadership.
 
 * **Examining the Landscape of Community Foundations in the U.S.**  
