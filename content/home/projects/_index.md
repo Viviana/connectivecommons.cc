@@ -7,10 +7,10 @@ My research combines mixed methods and computational approaches to examine the r
 
 **Connective-driven**: I look at their roles and capacities to make meaningful connections, such as engaging with local communities, leading across sectors, building diffused networks for connective actions, and playing a mediating role to advance policy reforms.
 
-# Publications
-### The geography and the disparities of community philanthropy: A community assessment model of needs, resources and ecological environment. [**Link**](link.springer.com/content/pdf/10.1007/s11266-019-00180-x.pdf)
 
-### Where do community foundations locate? Examining community needs and resources for redistribution. [**Link**](https://journals.aom.org/doi/abs/10.5465/AMBPP.2018.12266abstract)
+# Research Projects
+* **Examining the Landscape of Community Foundations in the U.S.**  
+This project gathers an original nation-wide dataset that identifies the service areas of community foundations, addressing a major limitation found in prior studies that primarily measure physical presence. I presented a community assessment model and empirical evidence of what might promote and inhibit the occurrence of community philanthropic efforts. This project results in [this publication](https://link.springer.com/content/pdf/10.1007/s11266-019-00180-x.pdf).
 
-### How stakeholder mobilization saved Sweet Briar College. [**Link**](https://www.researchgate.net/profile/Viviana_Chiu_Sik_Wu/publication/333250880_How_Stakeholder_Mobilization_Saved_Sweet_Briar_College/links/5d83bf3ca6fdcc8fd6f7904d/How-Stakeholder-Mobilization-Saved-Sweet-Briar-College.pdf)
-
+*  **The ‘Matthew Effect’ in Generosity: Examining the Impact on Nonprofit Capacity Across Place and Time** 
+This project examines the “philanthropic gap” across the US, with a particular focus on how nonprofits that serve disadvantaged communities are affected. At the end, we will offer recommendations for nonprofit and policy leaders on how to how to foster philanthropy and how to use that philanthropic giving to support a healthy nonprofit sector that promotes volunteering, political participation, services, and programs to serve community needs.
