@@ -1,3 +1,10 @@
+---
+
+[[main]]
+  name = "My new page"  # A link title for your page.
+  url = "projects/"  # The URL of your page.
+  weight = 50  # The position of your page in the menu.
+  
 title: An example title
 summary: Here we describe how to add a page to your site.
 date: "2018-06-28T00:00:00Z"
@@ -9,11 +16,7 @@ comments: false  # Show comments?
 
 
 +++
-# A Projects section created with the Portfolio widget.
-widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 65  # Order that this section will appear.
+
 
 title = "Projects"
 subtitle = ""
