@@ -73,5 +73,7 @@ user_groups:
 - Visitors
 ---
 
-I am an assistant professor at the University of Massachusetts Amherst, School of Public Policy. My research interests lie at the intersection of nonprofit management, social policy, and democratic governance. I combine mixed methods and computational approaches to examine the roles and capacities of nonprofit, philanthropic and grassroots organizations to advance public problem solving online and offline. Currently, I am examining the effect of place-based inequality on nonprofit capacity, conceptualizing the leadership capacity and mediating roles of foundations in public engagement and advancing policy change, and analyzing the use of social media for engaging public stakeholders and policy advocacy. 
+I am an assistant professor at the University of Massachusetts Amherst, School of Public Policy. My research interests lie at the intersection of nonprofit management, social policy, and democratic governance. I use mixed methods and computational approaches to examine the roles and capacities of nonprofit, philanthropic and grassroots organizations to advance public problem solving online and offline. 
+
+Currently, I am examining the effect of place-based inequality on nonprofit capacity, conceptualizing the leadership capacity and mediating roles of foundations in public engagement and advancing policy change, and analyzing the use of social media for engaging public stakeholders and policy advocacy. 
 
