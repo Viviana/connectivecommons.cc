@@ -1,6 +1,6 @@
 # Research
 
-My research combines mixed methods and computational approaches to examine the roles and capacities of nonprofit, philanthropic and grassroots organizations to advance public problem solving online and offline. My research program is interwoven with three core themes–the 3Cs: **Community, Commons and Connective**.
+My research program is interwoven with three core themes–the 3Cs: **Community, Commons and Connective**. In summary, I combine mixed methods and computational approaches to examine the roles and capacities of nonprofit, philanthropic and grassroots organizations to advance public problem solving online and offline. 
 
 * **Community-oriented**: Looking at both online and offline communities, my research uses a place-based perspective in understanding resource inequality across geographical communities, and how the nonprofit sector shapes and is being shaped by place itself. In the online playing field, I examine online communities on social media and other online platforms where the public, stakeholders and policymakers interact and engage to advance local wellbeing and policy process.
 
