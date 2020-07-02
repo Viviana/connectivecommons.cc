@@ -6,7 +6,7 @@ My research program is interwoven with three core themes–the 3Cs: **Community,
 
 * **Commons-focused**: The unit of analysis of my research is the bottom-up “self-governing” phenomenon in which people come together for common good or to some extent address local and public problems through philanthropy, nonprofits, grassroots groups and online networks ([Lohmann, 1992](https://journals.sagepub.com/doi/pdf/10.1177/089976409202100308?casa_token=Qo-25JS7Hd8AAAAA:Bn8sVo2IwKZVLJZG4_KaPUROHv-JT0RGnZ_NzWjK1UDp1sdA1boPQ-jTtQvjOCev6xOnLvgRLKFk)).
 
-* **Connective-driven**: I look at their roles and capacities to make meaningful connections, such as engaging with local communities, leading across sectors, building diffused networks for connective actions ([Bennett & Segerberg, 2012](https://www.tandfonline.com/doi/pdf/10.1080/1369118X.2012.670661?casa_token=4gvQS7S8IGYAAAAA:loshlKFSEc5460Zj3dVVKBj1xC1fYhfiKs8F--7BHsQC3pT85GPgWTE0d_nMq0aQRhH3l9uEjSSF)), and playing a mediating role to advance policy reforms ([Berger & Neuhaus, 1996](https://books.google.com/books/about/To_Empower_People.html?id=QpC2QgAACAAJ)); [Bushouse & Mosley, 2018](https://link.springer.com/content/pdf/10.1057/s41309-018-0040-6.pdf)).
+* **Connective-driven**: I look at their roles and capacities to make meaningful connections, such as engaging with local communities, leading across sectors, building diffused networks for [connective actions](https://www.tandfonline.com/doi/pdf/10.1080/1369118X.2012.670661?casa_token=4gvQS7S8IGYAAAAA:loshlKFSEc5460Zj3dVVKBj1xC1fYhfiKs8F--7BHsQC3pT85GPgWTE0d_nMq0aQRhH3l9uEjSSF), and playing a [mediating](https://link.springer.com/content/pdf/10.1057/s41309-018-0040-6.pdf) role to advance policy reforms .
 
 
 ## Current Projects
