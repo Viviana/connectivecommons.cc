@@ -67,10 +67,9 @@ subtitle = ""
  css_class = ""
 +++
 
+**SPP 608 Statistics for Public Policy** [(Class Website & R Lab)](https://spp608-2021.netlify.app/)
 
 **SPP 607 Policy Methods**
-
-**SPP 608 Statistics for Public Policy and Administration**
 
 **SPP 297 Leading Successful Public and Nonprofit Organizations**
 
