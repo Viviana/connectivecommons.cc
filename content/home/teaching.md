@@ -67,7 +67,7 @@ subtitle = ""
  css_class = ""
 +++
 
-**SPP 608 Statistics for Public Policy in R** [(Website](https://spp608-2021.netlify.app/) & [R Labs)](https://rpubs.com/Vivianacswu)
+**SPP 608 Statistics for Public Policy in R** [ [Website](https://spp608-2021.netlify.app/) ] & [ [R Labs](https://rpubs.com/Vivianacswu) ]
 
 **SPP 607 Policy Methods**
 
