@@ -73,6 +73,6 @@ subtitle = ""
 
 **SPP 297 Leading Successful Public and Nonprofit Organizations**
 
-**MSSP 897 Applied Linear Modeling [(Tutorials)](https://rpubs.com/VivianaWu)**
+**MSSP 897 Applied Linear Modeling** [ [R Labs](https://rpubs.com/VivianaWu) ]
 
 
