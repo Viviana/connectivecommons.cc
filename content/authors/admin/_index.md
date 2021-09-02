@@ -73,7 +73,7 @@ user_groups:
 - Visitors
 ---
 
-I am an Assistant Professor at the University of Massachusetts Amherst, [School of Public Policy](https://www.umass.edu/spp/). My research interests lie at the intersection of nonprofit management, social policy, and democratic governance. I use mixed methods and computational approaches to examine the roles and capacities of nonprofit, philanthropic and grassroots organizations to advance public problem solving online and offline. My research program is interwoven with three core themes–the 3Cs: [**Community, Commons and Connective**](https://connectivecommons.cc/projects/). 
+I am an Assistant Professor at the University of Massachusetts Amherst, [School of Public Policy](https://www.umass.edu/spp/). My research interests lie at the intersection of nonprofit management, social policy, and democratic governance. Using mixed methods and computational approaches, my work features the emerging roles and unequal capacities of nonprofit and philanthropic organizations to advance public problem solving online and offline--through philanthropy, advocacy, and public engagement. My research program is interwoven with three core themes–the 3Cs: [**Community, Commons and Connective**](https://connectivecommons.cc/projects/). 
 
-Currently, I am examining the effect of place-based inequality on nonprofit capacity, conceptualizing the leadership capacity and mediating roles of foundations in public engagement and advancing policy change, and analyzing the use of social media for engaging public stakeholders and policy advocacy. 
+Currently, I am examining the effect of place-based inequality on nonprofit capacity, conceptualizing the leadership capacity and intermediary roles of foundations in public engagement and advancing policy change, and analyzing the use of social media for engaging public stakeholders and policy advocacy. 
 
