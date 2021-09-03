@@ -25,5 +25,5 @@ Wu, V. C. S. (2021). Community leadership as multi‐dimensional capacities: A c
 * **Examining the Landscape of Community Foundations in the U.S.**   
 This project gathers an original nation-wide dataset that identifies the service areas of community foundations, addressing a major limitation found in prior studies that primarily measure physical presence. I presented a community assessment model and empirical evidence of what might promote and inhibit the occurrence of community philanthropic efforts. This project results in [this publication](https://link.springer.com/content/pdf/10.1007/s11266-019-00180-x.pdf).
 
-Wu, V. C. S. (2021). The geography and disparities of community philanthropy: A community assessment model of needs, resources, and ecological environment. VOLUNTAS: International Journal of Voluntary and Nonprofit Organizations, 32(2), 351-371.
+Wu, V. C. S. (2021). The geography and disparities of community philanthropy: A community assessment model of needs, resources, and ecological environment. _VOLUNTAS: International Journal of Voluntary and Nonprofit Organizations_, 32(2), 351-371.
 
