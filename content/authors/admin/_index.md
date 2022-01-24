@@ -23,12 +23,12 @@ bio: My research interests lie at the intersection of nonprofit management, soci
 interests:
 - "Philanthropy and nonprofit management"
 - "Inequality and place disadvantage"
-- "Connective action on social media"
+- "Social media advocacy"
 - "Computational methods, Text as Data"
 
 education:
   courses:
-  - course: PhD in Social Welfare
+  - course: PhD in Social Welfare (Nonprofit Mgmt)
     institution: University of Pennsylvania
 
   - course: MS in Nonprofit Leadership
@@ -73,6 +73,6 @@ user_groups:
 - Visitors
 ---
 
-I am an Assistant Professor at the UMass Amherst, [School of Public Policy](https://www.umass.edu/spp/). Using mixed methods and computational approaches, my work features the emerging roles and unequal capacities of nonprofit and philanthropic organizations to advance public problem solving online and offline--through philanthropy, advocacy, and public engagement. My research program is interwoven with three core themes–the 3Cs: [**Community, Commons and Connective**](https://connectivecommons.cc/projects/). 
+I am an Assistant Professor at the UMass Amherst [School of Public Policy](https://www.umass.edu/spp/). Using mixed methods and computational approaches, my work features the emerging roles and unequal capacities of nonprofit and philanthropic organizations to advance public problem solving online and offline--through philanthropy, advocacy, and public engagement. My research program is interwoven with three core themes–the 3Cs: [**Community, Commons and Connective**](https://connectivecommons.cc/projects/). 
 
-Rather than taking for granted that all nonprofits are "created" equal, my research probes how nonprofit organizations shape—and in turn, are shaped by—the place they serve and policy issues they intend to tackle. For instance, I examine the effect of place-based inequality on philanthropic capacity, and in turn, their intermediary roles in community leadership, public engagement and social media advocacy to advance change. I have published in <i>Public Management Review</i>, <i>Voluntas</i>, <i>Nonprofit Management and Leadership</i>, <i>Academy of Management Proceedings</i>, as well as <i>Journal of Nonprofit Education and Leadership</i>. I have received several research awards including the Best Conference Paper Award, Emerging Scholar Award, and RGK-ARNOVA President's Research Award from ARNOVA. 
+Rather than taking for granted that all nonprofits are "created" equal, my research probes how nonprofit organizations shape—and in turn, are shaped by—the place they serve and policy issues they intend to tackle. For instance, I examine the effect of place-based inequality on philanthropic capacity, and in turn, their intermediary roles in community leadership, public engagement, and social media advocacy to advance change. I have published in <i>Public Management Review</i>, <i>Voluntas</i>, <i>Nonprofit Management and Leadership</i>, <i>Academy of Management Proceedings</i>, and <i>Journal of Nonprofit Education and Leadership</i>. I have received several research awards, including the Best Conference Paper Award, Emerging Scholar Award, and RGK-ARNOVA President's Research Award from ARNOVA. 
