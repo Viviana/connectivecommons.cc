@@ -76,7 +76,7 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
 
 2.	Wu, V. C. S. (2021, in press). Beyond policy patrons: A ‘MADE’ framework for examining public engagement efforts of philanthropic foundations on Twitter. <i>Public Management Review.</i> [[ Paper ]](https://www.researchgate.net/publication/354759336)
 
-2.	Wu, V. C. S. (2021). Community leadership as multidimensional capacities: A conceptual framework and preliminary findings for community foundations. <i>Nonprofit Management and Leadership.</i> [[ Paper ]](https://onlinelibrary.wiley.com/doi/epdf/10.1002/nml.21467)
+2.	Wu, V. C. S. (2021). Community leadership as multidimensional capacities: A conceptual framework and preliminary findings for community foundations. <i>Nonprofit Management and Leadership.</i> [[ Paper ]](https://www.researchgate.net/publication/351092107)
 
 3.	Wu, V. C. S. (2021). The geography and the disparities of community philanthropy: A community assessment model of needs, resources and ecological environment. <i>VOLUNTAS. International Journal of Voluntary and Nonprofit Organizations.</i> [[ Paper ]](https://link.springer.com/content/pdf/10.1007/s11266-019-00180-x.pdf)
 
