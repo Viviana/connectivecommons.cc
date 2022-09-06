@@ -72,7 +72,7 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
 {{% /alert %}}
 
 # Publications
-1.	Wu, V. C. S. (2022, in press). Exploring donor influence and public engagement: Computational and thematic analyses of social media messages. VOLUNTAS: International Journal of Voluntary and Nonprofit Organizations. [[ Paper ]](https://www.researchgate.net/publication/360688562)
+1.	Wu, V. C. S. (2022, in press). Exploring donor influence and public engagement: Computational and thematic analyses of social media messages. <i>VOLUNTAS: International Journal of Voluntary and Nonprofit Organizations.</i> [[ Paper ]](https://www.researchgate.net/publication/360688562)
 
 2.	Wu, V. C. S. (2021, in press). Beyond policy patrons: A ‘MADE’ framework for examining public engagement efforts of philanthropic foundations on Twitter. <i>Public Management Review.</i> [[ Paper ]](https://www.researchgate.net/publication/354759336)
 
