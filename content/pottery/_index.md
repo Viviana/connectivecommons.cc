@@ -8,9 +8,9 @@ Personally, pottery symbolizes a continuous process of transformation (Jeremiah 
 ## Feather 
 This bowl employed an assisted form and sculpting techniques to embellish the outer surface with delicate lines. Stroke marks were made on the inside of the bowl, which was sprayed with spodumene, resulting in a light and matte color and a delicate, tactile sensation akin to the lightness of a feather.
 
-  ![Feather1](static/img/feather1.jpg)
+  ![ ](static/img/feather1.jpg)
 
-  ![Feather1](static/img/feather3.jpg)
+  ![ ](static/img/feather3.jpg)
 
   
 ---
