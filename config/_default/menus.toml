@@ -25,7 +25,7 @@
 
 [[main]]
   name = "Pottery"
-  url = "#pottery"
+  url = "/pottery"
   weight = 50
   
 [[main]]
