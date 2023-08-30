@@ -8,11 +8,11 @@ Personally, pottery symbolizes a continuous process of transformation (Jeremiah 
 
 <i> Yet you, Lord, are our Father. We are the clay, you are the potter; we are all the work of your hand. (Isaiah 64:8) </i>
 
-header: Feather 
+## Feather 
+This bowl employed an assisted form and sculpting techniques to embellish the outer surface with delicate lines. Stroke marks were made on the inside of the bowl, which was sprayed with spodumene, resulting in a light and matte color and a delicate, tactile sensation akin to the lightness of a feather.
 
-caption: "This bowl employed an assisted form and sculpting techniques to embellish the outer surface with delicate lines. Stroke marks were made on the inside of the bowl and it was sprayed with spodumene, resulting in a light and matte color and a delicate, tactile sensation akin to the lightness of a feather."
- 
-  image: "feather1.jpg"
-  image: "feather3.jpg"
+![](feather1.jpg)
+![](feather3.jpg)
+
   
 ---
