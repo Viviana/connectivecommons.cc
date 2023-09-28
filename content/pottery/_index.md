@@ -8,14 +8,21 @@ Personally, pottery symbolizes a continuous process of transformation (Jeremiah 
 ## Feather 
 This bowl employed an assisted form and sculpting techniques to embellish the outer surface with delicate lines. Stroke marks were made on the inside of the bowl, which was sprayed with spodumene, resulting in a light and matte color and a delicate, tactile sensation akin to the lightness of a feather.
 
+![ ](feather1.jpg) ![ ](feather3.jpg)
+
+
 <p float="left">
-  <img src="feather1.jpg" width="300" > 
-  
+  <img src="feather1.jpg" width="300" >   
   <img src="feather3.jpg" width="300" /> 
 </p>
 
 
 ---
+
+## Rose Bowl
+Making from a bisque mold I carved, I sprayed a different combination of glaze, namely Spodumene and Sensei Red, on the outer side of the bowl to produce a gradation effect across the rose-shaped bowl. 
+
+![ ](rose1.jpg) ![ ](rose2.jpg)
 
 
 p.s. I began my pottery journey as I embraced motherhood. It empowers me to transcend the roles of being both a mother and an academic. This marks the commencement of a therapeutic and uplifting journey. Credit to my classmates and teachers, Joy Friedman, Evelyn Snyder, and Cynthia Consentino, whose inspiration and ceramic expertise have profoundly influenced and guided me on this path.
