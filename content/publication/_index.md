@@ -21,17 +21,23 @@ header:
 
 ---
 
+**Nonprofit Climate Advocacy on Twitter**
+
+Wu, V. C. S., & Xu, W. W. (2023, in press). Who Leads and Who Echoes? Tracing Message Similarity Network of #ClimateChange Advocacy on Twitter. _Nonprofit and Voluntary Sector Quarterly_. [ Paper ] (https://www.researchgate.net/publication/374232144)
+
+Abstract
+How do nonprofits advocate and shape climate conversations on Twitter? We answer this question by combining computational analyses with thick descriptions of discursive data to analyze message diffusion on Twitter. We first map a temporal message similarity network comprising 298,073 unique tweets sent by climate action and obstruction nonprofits. We then identify four leading nonprofits and trace their message similarity to 2,479 accounts over 2 weeks. Our results suggest that while climate obstruction nonprofits might not be frequent tweeters, their voices are highly reciprocal in the Twitterverse. We also find that messages of either side are most echoed by the public rather than elite audiences. Although diffusion to policymakers is almost absent, we uncover high semantic similarities between messages from climate obstruction nonprofits and bot-like accounts. Our analyses contribute to new theoretical and empirical insights into the roles of nonprofit conversation leaders and their potential message diffusion in climate discourse.
+
 **Donor Influence and Public Engagement**
 
-Wu, V. C. S. (2022, in press). Exploring donor influence and public engagement: Computational and thematic analyses of social media messages. VOLUNTAS: International Journal of Voluntary and Nonprofit Organizations. [ Paper ](https://www.researchgate.net/publication/360688562)
+Wu, V. C. S. (2023). Exploring donor influence and public engagement: Computational and thematic analyses of social media messages. _VOLUNTAS: International Journal of Voluntary and Nonprofit Organizations_,34(4), 813-829. [ Paper ](https://www.researchgate.net/publication/360688562)
 
 Abstract 
 How might donor influence shape the ways community foundations engage with public constituents? Using donor-advised funds to proxy for donor influence, I combined content analysis and structural topic modeling to analyze the themes of 4,055 public engagement messages sent by community foundations on Twitter. The structural topic model results revealed that donor influence significantly varied the themes of public engagement tweets. Strong donor influence was significantly correlated with greater use of policy advocacy and public education messages but negatively correlated with public mobilization and dialogic messages. This study contributes to a growing line of research on donor control and provides important insights into the power dynamics among the triad of 212 community constituents, donors, and foundations.
 
 **Public Engagement of Philanthropic Foundations on Social Media**
 
-Wu, V. C. S. (2021, in press). Beyond policy patrons: A ‘MADE’ framework for examining public engagement efforts of philanthropic foundations on Twitter. Public Management Review. [ Paper ](https://www.researchgate.net/publication/354759336) 
-
+Wu, V. C. S. (2023). Beyond policy patrons: A ‘MADE’ framework for examining public engagement efforts of philanthropic foundations on Twitter. _Public Management Review_, 25(3), 549-574. https://doi.org/10.1080/14719037.2021.1982328 
 Abstract
 This study conceptualises four mechanisms—Mobilisation, Advocacy, Dialogue, and Education ('MADE')—through which foundation actors engage the public on Twitter. We analysed stakeholders targeted and message contents of more than 16,000 tweets collected from 299 Twitter accounts of U.S. community foundations during two 12-month periods. We found evidence that foundations tend to serve as 'a knowledge hub' to educate the public. Notably, the 2020 sample suggests lessened dialogic messages yet increased mobilisation and advocacy messages amid the COVID-19 pandemic and political movements. This study reveals foundations’ intermediary and shifting roles in engaging the public in times of normalcy and crisis.
 
