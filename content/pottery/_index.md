@@ -3,7 +3,7 @@
 
 Inspired by a floral theme, my ceramic works have undergone a meticulous process: wedging, throwing, hand building, drying, trimming, piercing, bisque firing, glazing, and the final firing. This process demands extreme attentiveness to detail and patience—much like the experience of being an academic—yet it's so immersive that you easily lose track of time and self, leaving no room for mind-boggling reviews. 🙂
 
-Personally, pottery symbolizes a continuous process of transformation (Jeremiah 1:10). Each piece represents a trajectory of new possibilities, renewal, and hope, serving as a reminder that even amidst chaos and brokenness, our lives can be uplifted, transformed, and elevated to a place of grace, freedom, and fullness. 
+Personally, pottery symbolizes a continuous process of transformation (Jeremiah 1:10). Each piece represents a trajectory of new possibilities, renewal, and hope, serving as a reminder that even amidst chaos and brokenness, our lives can be uplifted, transformed, and elevated to a place of grace, freedom, and fullness. This too shall pass, as the saying goes. I hope my work inspires joy and hope within you today! Check out my portfolio on [this website](https://sway.office.com/RcbuJrXSABkHWad2?ref=Link). 
 
 ## Feather 
 This bowl employed an assisted form and sculpting techniques to embellish the outer surface with delicate lines. Stroke marks were made on the inside of the bowl, which was sprayed with spodumene, resulting in a light and matte color and a delicate, tactile sensation akin to the lightness of a feather.
