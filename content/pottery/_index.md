@@ -1,9 +1,10 @@
 # Pottery
 <i> Yet you, Lord, are our Father. We are the clay, you are the potter; we are all the work of your hand. (Isaiah 64:8) </i>
 
-Inspired by a floral theme, my ceramic works have undergone a meticulous process: wedging, throwing, hand building, drying, trimming, piercing, bisque firing, glazing, and the final firing. This process demands extreme attentiveness to detail and patience—much like the experience of being an academic—yet it's so immersive that you easily lose track of time and self, leaving no room for mind-boggling reviews. 🙂
+I began my pottery journey as I embraced motherhood. It empowers me to transcend the roles of being both a mother and an academic. This marks the commencement of a therapeutic and uplifting journey. Personally, pottery symbolizes a continuous process of transformation (Jeremiah 1:10). Each piece represents a trajectory of new possibilities, renewal, and hope, serving as a reminder that even amidst chaos and brokenness, our lives can be uplifted, transformed, and elevated to a place of grace, freedom, and fullness. This too shall pass, as the saying goes. I hope my work inspires joy and hope within you today! 
 
-Personally, pottery symbolizes a continuous process of transformation (Jeremiah 1:10). Each piece represents a trajectory of new possibilities, renewal, and hope, serving as a reminder that even amidst chaos and brokenness, our lives can be uplifted, transformed, and elevated to a place of grace, freedom, and fullness. This too shall pass, as the saying goes. I hope my work inspires joy and hope within you today! Check out my portfolio on [this website](https://sway.office.com/RcbuJrXSABkHWad2?ref=Link). 
+Inspired by a floral theme, my ceramic work has undergone a meticulous process: wedging, throwing, hand building, drying, trimming, piercing, bisque firing, glazing, and the final firing. This process demands extreme attentiveness to detail and patience—much like the experience of being an academic—yet it's so immersive that you easily lose track of time and self, leaving no room for mind-boggling reviews. 😊 You are welcome to check out my ceramics portfolio on [this website](https://sway.office.com/RcbuJrXSABkHWad2?ref=Link). 
+
 
 ## Feather 
 This bowl employed an assisted form and sculpting techniques to embellish the outer surface with delicate lines. Stroke marks were made on the inside of the bowl, which was sprayed with spodumene, resulting in a light and matte color and a delicate, tactile sensation akin to the lightness of a feather.
@@ -23,6 +24,8 @@ Making from a bisque mold I carved, I sprayed a different combination of glaze, 
   <img src="rose2.jpg" width="400" />
 </p>
 
+---
+
 ## Magnolia
 
 This magnolia vase is one of my ceramics series, which symbolizes a life being transformed in multiple stages. It tells a story of renewal and hope that our lives can be transformed and ascended to a place of grace, elegance, and hope even amid chaos and brokenness.
@@ -32,4 +35,4 @@ This magnolia vase is one of my ceramics series, which symbolizes a life being t
   <img src="magnolia2.jpg" width="400" />
 </p>
 
-p.s. I began my pottery journey as I embraced motherhood. It empowers me to transcend the roles of being both a mother and an academic. This marks the commencement of a therapeutic and uplifting journey. Credit to my classmates and teachers, Joy Friedman, Evelyn Snyder, and Cynthia Consentino, whose inspiration and ceramic expertise have profoundly influenced and guided me on this path. 
+p.s. Credit to my classmates and teachers, Joy Friedman, Evelyn Snyder, and Cynthia Consentino, whose inspiration and ceramic expertise have profoundly influenced and guided me on this path. 
