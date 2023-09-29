@@ -69,7 +69,7 @@ subtitle = ""
 
 **SPP 608 Statistics for Public Policy in R** [ [Website](https://spp608-statastic.netlify.app/) ] & [ [R Labs](https://rpubs.com/Vivianacswu) ]
 
-**SPP 607 Policy Methods**
+**SPP 607 Policy Methods** [ [Syllabus](https://docs.google.com/document/d/1iRsfLOCI0Unqn25VEn9nKju1E-7WxKj1u7mCnq2JrXE/edit?usp=sharing) ]
 
 **MSSP 897 Applied Linear Modeling** [ [R Labs](https://rpubs.com/VivianaWu) ]
 
