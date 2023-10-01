@@ -22,7 +22,7 @@ header:
 ---
 **Nonprofit Climate Advocacy on Twitter**
 
-Wu, V. C. S., & Xu, W. W. (2023, in press). Who Leads and Who Echoes? Tracing Message Similarity Network of #ClimateChange Advocacy on Twitter. _Nonprofit and Voluntary Sector Quarterly_. [[ Paper ]] (https://www.researchgate.net/publication/374232144)
+Wu, V. C. S., & Xu, W. W. (2023, in press). Who Leads and Who Echoes? Tracing Message Similarity Network of #ClimateChange Advocacy on Twitter. _Nonprofit and Voluntary Sector Quarterly_. [[ Paper ]](https://www.researchgate.net/publication/374232144)
 
 How do nonprofits advocate and shape climate conversations on Twitter? We answer this question by combining computational analyses with thick descriptions of discursive data to analyze message diffusion on Twitter. We first map a temporal message similarity network comprising 298,073 unique tweets sent by climate action and obstruction nonprofits. We then identify four leading nonprofits and trace their message similarity to 2,479 accounts over 2 weeks. Our results suggest that while climate obstruction nonprofits might not be frequent tweeters, their voices are highly reciprocal in the Twitterverse. We also find that messages of either side are most echoed by the public rather than elite audiences. Although diffusion to policymakers is almost absent, we uncover high semantic similarities between messages from climate obstruction nonprofits and bot-like accounts. Our analyses contribute to new theoretical and empirical insights into the roles of nonprofit conversation leaders and their potential message diffusion in climate discourse.
 
