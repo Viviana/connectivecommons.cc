@@ -1,15 +1,4 @@
-# Research
-
-The central motivation of my research is: **How do “communities” come together to advance social and policy change in an increasingly unequal, polarized world, online and offline?** My scholarly work has explored various forms of communities, encompassing formal institutions like nonprofit organizations, as well as informal grassroots organizing, such as mutual aid groups and online communities or networked publics on social media. By social and policy change, I look at various policy objectives, from socioeconomic disadvantage to racial equity and climate justice. In short, my research program is interwoven with three core themes–the 3Cs: **Community, Collective, and Connective**. 
-
-* **Community-oriented**: Looking at both online and offline communities, my research uses a place-based perspective in understanding resource inequality across geographical communities, and how the nonprofit sector shapes and is being shaped by place itself. In the online playing field, I examine online communities on social media and other online platforms where the public, stakeholders and policymakers interact and engage to advance local wellbeing and policy process.
-
-* **Collective-focused**: The unit of analysis of my research is the bottom-up collective “self-governing” phenomenon in which people come together for common good to address local and public problems through organized organizations such as community foundations, nonprofits, grassroots groups [(Lohmann, 1992)](https://journals.sagepub.com/doi/pdf/10.1177/089976409202100308?casa_token=Qo-25JS7Hd8AAAAA:Bn8sVo2IwKZVLJZG4_KaPUROHv-JT0RGnZ_NzWjK1UDp1sdA1boPQ-jTtQvjOCev6xOnLvgRLKFk).
-
-* **Connective-driven**: I look at their roles and capacities to make meaningful connections and online [connective actions](https://www.tandfonline.com/doi/pdf/10.1080/1369118X.2012.670661?casa_token=4gvQS7S8IGYAAAAA:loshlKFSEc5460Zj3dVVKBj1xC1fYhfiKs8F--7BHsQC3pT85GPgWTE0d_nMq0aQRhH3l9uEjSSF), such as engaging with local communities, social media advocacy, building diffused networks for advancing policy reforms.
-
-
-## Published Work and Ongoing Projects
+# Published Work and Ongoing Projects
 
 **1.	Mapping the Unequal Playing Field: The Disparities and Geography of Philanthropy**
    
